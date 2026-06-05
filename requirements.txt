@@ -1,2 +1,4 @@
 claude-agent-sdk
 python-dotenv
+tavily-python
+requests
